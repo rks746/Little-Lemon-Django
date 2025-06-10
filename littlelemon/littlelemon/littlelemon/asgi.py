@@ -14,3 +14,6 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'littlelemon.settings')
 
 application = get_asgi_application()
+
+#ASGI = Asynchronous Server Gateway Interface
+#used for deploying Django with async features 

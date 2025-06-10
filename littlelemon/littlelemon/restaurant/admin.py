@@ -3,3 +3,5 @@ from .models import Menu
 
 # Register your models here.
 admin.site.register(Menu)
+
+#registers models for Django admin 
