@@ -1,4 +1,4 @@
-# Little Lemon Restaurant website 📝
+# Little Lemon Restaurant website 🍋
 
 This is my first **Django** project: a simple website for a restaurant.  
 I built it by following a FreeCodeCamp YouTube tutorial by **Code with Abel**.
